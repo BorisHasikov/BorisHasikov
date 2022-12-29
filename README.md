@@ -1,1 +1,1 @@
-<p align="center"><img src="https://media4.giphy.com/media/pXLA2gtoUdPdPeVZu5/giphy.gif" /></p>
+<p align="center"><img src="https://kit.svelte.dev/edge.svg" /></p>
